@@ -9,8 +9,7 @@ featuredpath = "date"
 linktitle = ""
 title = "(Hu)go Template Primer"
 type = "post"
-tags = ["Tag"]
-draft = "true"
+
 +++
 
 Hugo uses the excellent [go][] [html/template][gohtmltemplate] library for

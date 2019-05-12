@@ -1,6 +1,7 @@
 +++
 author = "Theme author"
 categories = ["Hugo"]
+tags = ["tutorial"]
 date = "2014-09-28"
 description = "Learn how to create a theme on Hugo"
 featured = "pic03.jpg"
@@ -9,8 +10,7 @@ featuredpath = "date"
 linktitle = ""
 title = "Creating a New Theme"
 type = "post"
-tags = ["None"]
-draft = "true"
+
 +++
 
 ## Introduction
