@@ -9,7 +9,8 @@ featuredpath = ""
 linktitle = ""
 title = "Markdown and Shortcodes"
 type = "post"
-
+tags = ["Tag"]
+draft = "true"
 +++
 
 # Thanks!
