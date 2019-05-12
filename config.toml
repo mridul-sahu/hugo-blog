@@ -11,6 +11,9 @@ pluralizeListTitles     = false
 enableRobotsTXT = true
 canonifyURLs = true
 
+[author]
+  author = "Mridul Sahu"
+
 [permalinks]
   blog = "/:year/:title/"
 
@@ -47,7 +50,7 @@ canonifyURLs = true
   socialShare          = true
   # Sets specific share to appear on posts (default behavior is to appear)
   socialShareTwitter   = true
-  socialShareGoogleplus = true
+  socialShareGoogleplus = false
   socialShareFacebook  = true
   socialShareReddit    = true
   socialShareLinkedin  = true
@@ -117,31 +120,31 @@ canonifyURLs = true
   [[menu.main]]
     name              = "Blog"
     url               = "/"
-    identifier        = "far fa-newspaper"
+    identifier        = "fa fa-newspaper-o"
     weight            = 1
 
   [[menu.main]]
     name              = "Categories"
     url               = "/categories/"
-    identifier        = "fas fa-sitemap"
+    identifier        = "fa fa-sitemap"
     weight            = 2
 
   [[menu.main]]
     name              = "Tags"
     url               = "/tags/"
-    identifier        = "fas fa-hashtag"
+    identifier        = "fa fa-hashtag"
     weight            = 3
 
   [[menu.main]]
     name              = "About"
     url               = "/about/"
-    identifier        = "far fa-id-card"
+    identifier        = "fa fa-id-card"
     weight            = 4
 
   [[menu.main]]
     name              = "Contact"
     url               = "/contact/"
-    identifier        = "far fa-envelope"
+    identifier        = "fa fa-envelope-o"
     weight            = 5
 
 # Sets Social Media icons to appear and link to your account. Value should be your
