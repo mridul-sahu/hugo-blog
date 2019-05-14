@@ -9,7 +9,7 @@ featuredpath = ""
 linktitle = ""
 title = "Migrate to Hugo from Jekyll"
 type = "post"
-
+draft = "True"
 +++
 
 ## Move static content to `static`
