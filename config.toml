@@ -23,7 +23,7 @@ enableEmoji = true
 
 [params]
   # Sets the meta tag description
-  description         = "A blog by Code India Company, mainly posted by Mridul Sahu. A great place to learn about programming and treding technologies."
+  description         = "A blog by Code India Company, mainly posted by Mridul Sahu. A great place to learn about programming and trending technologies."
   # Sets the navbarTitle that appears in the top left of the navigation bar
   navbarTitle         = "Code India Company"
   # Sets where "View More Posts" links
@@ -107,11 +107,11 @@ enableEmoji = true
   # A width of less than 100px is recommended from a design perspective.
   [params.intro.pic]
     src       = "/img/main/logo.png"
-    # Sets Image to be a cirlce
+    # Sets Image to be a circle
     circle    = false
     # Sets Image to be Future Imperfect's hexagon
     imperfect = true
-    width     = "100"
+    width     = "100px"
     alt       = ""
 
 [params.postAmount]
