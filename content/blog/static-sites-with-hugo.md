@@ -4,7 +4,7 @@ categories = ["Hugo"]
 tags = ["tutorial", "aws", "blog"]
 date = "2019-05-17"
 description = "Generating Static Sites with Hugo"
-featured = "hugo_feature.png"
+featured = "hugo-feature.png"
 featuredalt = "Hugo - The World's fastest framework for building websites"
 featuredpath = "date"
 title = "Generating sites with Hugo"
@@ -43,7 +43,7 @@ $ hugo help
 ```
 ***
 # Building Our First Hugo Site:yum:
-Let's start a new project and see where can we go from there. The way you start a new hugo project is as simple as running this command (feel free to replace {{<color-text "lets_blog" "#F26D21">}} with what you like).
+Let's start a new project and see where can we go from there. The way you start a new hugo project is as simple as running this command (feel free to replace {{< color-text "lets_blog" "#F26D21" >}} with what you like).
 ```
 $ hugo new site lets_blog
 ```
@@ -92,7 +92,7 @@ The above will create a new content file in `content/posts/my-first-post.md` usi
 3. `themes/my-theme/archetypes/posts.md`
 4. `themes/my-theme/archetypes/default.md`
 
-The last two list items are only applicable if you use a theme named {{<color-text "my-theme" "#F26D21">}} (in our case _ananke_).
+The last two list items are only applicable if you use a theme named {{< color-text "my-theme" "#F26D21" >}} (in our case _ananke_).
 
 ### What are Archetypes?
 Archetypes are content template files in the archetypes directory of your project that contain preconfigured {{< url-link "front matter" "https://gohugo.io/content-management/front-matter/" >}} and possibly also a content disposition for your website’s content types. These will be used when you run `hugo new`.  
