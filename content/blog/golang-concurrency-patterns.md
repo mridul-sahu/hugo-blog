@@ -241,4 +241,4 @@ func BoringTimeoutPerMessage(input <-chan string) {
 2. Another talk about **_Advanced Go Concurrency Patterns_** (Google I/O - 2013) by **_Sameer Ajmani_**:
     {{< youtube QDDwwePbDtw >}}
 
-Feel free to checkout a list of examples using these patterns on my github {{< url-link "Github" "https://github.com/mridul-sahu/golang-concurrency-patterns" >}}:bowtie:
+Feel free to checkout a list of examples using these patterns on my {{< url-link "Github" "https://github.com/mridul-sahu/golang-concurrency-patterns" >}}:bowtie:
